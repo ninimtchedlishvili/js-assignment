@@ -38,4 +38,5 @@ function printPriceInfo(itemPrice, priceFunction) {
 
 
 
- 
+printPriceInfo(30, checkPrice);
+    printPriceInfo(150, checkPrice);
